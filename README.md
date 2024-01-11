@@ -19,3 +19,16 @@ PedRetinaExplorer is an innovative initiative aimed at transforming the landscap
 - **Collaborative Platform:** Encouraging knowledge-sharing among medical professionals for an interdisciplinary approach to understanding pediatric retina responses to chemotherapy.
 
 *In essence, PedRetinaExplorer emerges as a pivotal resource in pediatric ophthalmology, offering a sophisticated and user-friendly solution for exploring, assessing, and gaining insights into chemotherapy outcomes in children with retinal conditions. By combining advanced technology with medical expertise, this project aims to significantly contribute to the improvement of treatment strategies and overall care for young patients.*
+
+## How to run
+### Install the following dependencies
+
+```bash
+pip install streamlit whoosh
+```
+
+### Run the following command
+
+```bash
+streamlit run search_app.py
+```
