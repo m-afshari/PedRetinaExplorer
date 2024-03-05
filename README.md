@@ -23,7 +23,7 @@ PedRetinaExplorer is an innovative initiative aimed at transforming the landscap
 - To run the project, you can follow these steps:
 
 1. **Clone the Repository:**
-   Clone your GitHub repository to your local machine using the following command:
+   Clone the repository to your local machine using the following command:
 
    ```bash
    git clone https://github.com/m-afshari/PedRetinaExplorer.git
@@ -33,7 +33,7 @@ PedRetinaExplorer is an innovative initiative aimed at transforming the landscap
    Navigate to the project directory and create a virtual environment. This step is optional but recommended for managing dependencies.
 
    ```bash
-   cd chemo_search_engine
+   cd PedRetinaExplorer
    python -m venv venv
    ```
 
